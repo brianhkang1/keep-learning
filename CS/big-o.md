@@ -38,4 +38,4 @@ function above would have a big O of O(a*b), NOT O(N^2)
 
 ### Drop non-dominate terms  
 
-O(N + N^2) === O(N^2)
+O(N + N^2) => O(N^2)
